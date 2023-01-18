@@ -10,5 +10,5 @@ npm run start
 
 - build 
 ```
-npm build
+npm run build
 ```
